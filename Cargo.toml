@@ -1,0 +1,17 @@
+[package]
+name = "alembic"
+version = "0.1.0"
+authors = ["Scott Wilson <scott@propersquid.com>"]
+edition = "2018"
+license = "BSD-3-Clause"
+description = "Rust bindings for Alembic (placeholder)"
+keywords = ["vfx", "animation", "cg", "alembic"]
+categories = ["api-bindings"]
+homepage = "https://www.github.com/scott-wilson/Alembic-rs"
+documentation = "https://docs.rs/alembic"
+repository = "https://www.github.com/scott-wilson/Alembic-rs"
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
